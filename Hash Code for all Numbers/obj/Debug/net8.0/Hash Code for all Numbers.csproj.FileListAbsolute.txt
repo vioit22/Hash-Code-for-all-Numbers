@@ -1,0 +1,14 @@
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Numbers\bin\Debug\net8.0\Hash Code for all Numbers.exe
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Numbers\bin\Debug\net8.0\Hash Code for all Numbers.deps.json
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Numbers\bin\Debug\net8.0\Hash Code for all Numbers.runtimeconfig.json
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Numbers\bin\Debug\net8.0\Hash Code for all Numbers.dll
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Numbers\bin\Debug\net8.0\Hash Code for all Numbers.pdb
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Numbers\obj\Debug\net8.0\Hash Code for all Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Numbers\obj\Debug\net8.0\Hash Code for all Numbers.AssemblyInfoInputs.cache
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Numbers\obj\Debug\net8.0\Hash Code for all Numbers.AssemblyInfo.cs
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Numbers\obj\Debug\net8.0\Hash Code for all Numbers.csproj.CoreCompileInputs.cache
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Numbers\obj\Debug\net8.0\Hash Code for all Numbers.dll
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Numbers\obj\Debug\net8.0\refint\Hash Code for all Numbers.dll
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Numbers\obj\Debug\net8.0\Hash Code for all Numbers.pdb
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Numbers\obj\Debug\net8.0\Hash Code for all Numbers.genruntimeconfig.cache
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Numbers\obj\Debug\net8.0\ref\Hash Code for all Numbers.dll

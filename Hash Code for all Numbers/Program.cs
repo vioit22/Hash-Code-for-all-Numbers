@@ -154,7 +154,7 @@ Console.WriteLine("For the number 30, Hash Code is:");
 Console.WriteLine(number3030.GetHashCode());
 // For number 31
 int number31= 31;
-double number3131 = ConvertToDouble(number31);
+double number3131 = Convert.ToDouble(number31);
 Console.WriteLine("For the number 31, Hash Code is:");
 Console.WriteLine(number3131.GetHashCode());
 Console.WriteLine("Press Enter to exit... Developed by Vio IT!");
